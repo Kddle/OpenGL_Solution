@@ -1,10 +1,10 @@
-#include<glad/glad.h>
-#include <GLFW/glfw3.h>
+#pragma once
 #include "HelloGame.h"
+
+using namespace Kaddle::Game;
 
 HelloGame::HelloGame()
 {
-	this->renderer = Renderer();
 }
 
 void HelloGame::init()
@@ -12,7 +12,7 @@ void HelloGame::init()
 	this->renderer.init();
 }
 
-void HelloGame::input(Window* window)
+void HelloGame::input(Kaddle::Engine::Window* window)
 {
 	if (window->isKeyPressed(GLFW_KEY_UP))
 	{
@@ -41,7 +41,7 @@ void HelloGame::update(float interval)
 	}
 }
 
-void HelloGame::render(Window* window)
+void HelloGame::render(Kaddle::Engine::Window* window)
 {
 	if (window->isResized())
 	{

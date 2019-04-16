@@ -1,14 +1,18 @@
+#pragma once
+#include "engine/GameEngine.h"
 #include "engine/GameLogic.h"
 #include "game/HelloGame.h"
-#include "engine/GameEngine.h"
+
 
 int main()
 {
 	bool vSync = true;
-	GameLogic gameLogic = HelloGame();
+	Kaddle::Game::HelloGame gameLogic;
 
-	GameEngine gameEngine = GameEngine("Game", 600, 480, vSync, &gameLogic);
+	Kaddle::Engine::GameEngine gameEngine("Game", 600, 480, vSync, &gameLogic);
 	gameEngine.start();
+
+	return 0;
 }
 
 //#include <iostream>

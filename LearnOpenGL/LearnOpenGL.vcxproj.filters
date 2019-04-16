@@ -24,5 +24,113 @@
     <ClCompile Include="MainTest.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\engine\*">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine\GameEngine.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine\GameLogic.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine\Timer.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine\Timer.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine\Window.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine\Window.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine\GameEngine.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine\GameLogic.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine\Timer.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine\Timer.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine\Window.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine\Window.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine\*">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine\GameEngine.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine\GameLogic.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine\Timer.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine\Timer.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine\Window.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine\Window.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine\*">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine\GameEngine.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine\GameLogic.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine\Timer.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine\Timer.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine\Window.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\engine\Window.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\*">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\HelloGame.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\Renderer.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\Renderer.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\*">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\HelloGame.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\Renderer.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\Renderer.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameLogic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

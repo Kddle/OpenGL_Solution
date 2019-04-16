@@ -1,9 +1,12 @@
-#include<glad/glad.h>
-#include <GLFW/glfw3.h>
+#pragma once
 
-class Renderer
-{
-public:
-	void init();
-	void clear();
-};
+namespace Kaddle {
+	namespace Game {
+		class Renderer
+		{
+		public:
+			void init();
+			void clear();
+		};
+	}
+}

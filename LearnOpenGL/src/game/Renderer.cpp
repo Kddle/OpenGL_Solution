@@ -1,4 +1,8 @@
+#pragma once
+#include <glad/glad.h>
 #include "Renderer.h"
+
+using namespace Kaddle::Game;
 
 void Renderer::init() 
 {
